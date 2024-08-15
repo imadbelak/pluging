@@ -1,0 +1,120 @@
+[14-Aug-2024 12:03:11 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\helloworld\helloworld.php on line 53
+[14-Aug-2024 12:03:13 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\helloworld\helloworld.php on line 53
+[14-Aug-2024 12:03:16 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\helloworld\helloworld.php on line 53
+[14-Aug-2024 12:04:20 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\helloworld\helloworld.php on line 53
+[14-Aug-2024 12:04:33 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\helloworld\helloworld.php on line 53
+[14-Aug-2024 12:11:32 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\helloworld\helloworld.php on line 53
+[14-Aug-2024 12:11:39 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\helloworld\helloworld.php on line 53
+[14-Aug-2024 12:14:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('plugin khdam/co...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(60): activate_plugin('plugin khdam/co...', 'http://test-fin...', false)
+#3 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:14:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('plugin khdam/co...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(60): activate_plugin('plugin khdam/co...', 'http://test-fin...', false)
+#3 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:16:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('plugin khdam/co...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(60): activate_plugin('plugin khdam/co...', 'http://test-fin...', false)
+#3 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:22:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('plugin khdam/co...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(60): activate_plugin('plugin khdam/co...', 'http://test-fin...', false)
+#3 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:22:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('plugin khdam/co...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(60): activate_plugin('plugin khdam/co...', 'http://test-fin...', false)
+#3 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:22:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('plugin khdam/co...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(60): activate_plugin('plugin khdam/co...', 'http://test-fin...', false)
+#3 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:27:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('plugin khdam/co...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(879): activate_plugin('plugin khdam/co...', 'http://test-fin...', false, false)
+#3 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(126): activate_plugins(Array, 'http://test-fin...', false)
+#4 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:27:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(2387): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('plugin khdam/co...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(60): activate_plugin('plugin khdam/co...', 'http://test-fin...', false)
+#3 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:27:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-config.php(103): require_once('C:\\Users\\asusp\\...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-load.php(50): require_once('C:\\Users\\asusp\\...')
+#3 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\asusp\\...')
+#4 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\asusp\\...')
+#5 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:27:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-config.php(103): require_once('C:\\Users\\asusp\\...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-load.php(50): require_once('C:\\Users\\asusp\\...')
+#3 C:\Users\asusp\Local Sites\test-final\app\public\wp-blog-header.php(13): require_once('C:\\Users\\asusp\\...')
+#4 C:\Users\asusp\Local Sites\test-final\app\public\index.php(17): require('C:\\Users\\asusp\\...')
+#5 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:28:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-config.php(103): require_once('C:\\Users\\asusp\\...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-load.php(50): require_once('C:\\Users\\asusp\\...')
+#3 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\asusp\\...')
+#4 C:\Users\asusp\Local Sites\test-final\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\asusp\\...')
+#5 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:28:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php:20
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-settings.php(522): include_once()
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-config.php(103): require_once('C:\\Users\\asusp\\...')
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-load.php(50): require_once('C:\\Users\\asusp\\...')
+#3 C:\Users\asusp\Local Sites\test-final\app\public\wp-blog-header.php(13): require_once('C:\\Users\\asusp\\...')
+#4 C:\Users\asusp\Local Sites\test-final\app\public\index.php(17): require('C:\\Users\\asusp\\...')
+#5 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 20
+[14-Aug-2024 12:29:17 UTC] PHP Parse error:  Unmatched '}' in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 63
+[14-Aug-2024 12:29:18 UTC] PHP Parse error:  Unmatched '}' in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 63
+[14-Aug-2024 12:30:55 UTC] PHP Parse error:  syntax error, unexpected identifier "logo", expecting "(" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 26
+[14-Aug-2024 12:30:55 UTC] PHP Parse error:  syntax error, unexpected identifier "logo", expecting "(" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 26
+[14-Aug-2024 12:31:00 UTC] PHP Parse error:  syntax error, unexpected identifier "logo", expecting "(" in C:\Users\asusp\Local Sites\test-final\app\public\wp-content\plugins\plugin khdam\codeplugin.php on line 26
+[14-Aug-2024 12:31:15 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "add_seomaniak logo" not found or invalid function name in C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\general-template.php(3081): do_action('wp_footer')
+#3 C:\Users\asusp\Local Sites\test-final\app\public\wp-content\themes\twentytwenty\footer.php(67): wp_footer()
+#4 C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\template.php(810): require_once('C:\\Users\\asusp\\...')
+#5 C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\template.php(745): load_template('C:\\Users\\asusp\\...', true, Array)
+#6 C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#7 C:\Users\asusp\Local Sites\test-final\app\public\wp-content\themes\twentytwenty\index.php(122): get_footer()
+#8 C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\asusp\\...')
+#9 C:\Users\asusp\Local Sites\test-final\app\public\wp-blog-header.php(19): require_once('C:\\Users\\asusp\\...')
+#10 C:\Users\asusp\Local Sites\test-final\app\public\index.php(17): require('C:\\Users\\asusp\\...')
+#11 {main}
+  thrown in C:\Users\asusp\Local Sites\test-final\app\public\wp-includes\class-wp-hook.php on line 324
